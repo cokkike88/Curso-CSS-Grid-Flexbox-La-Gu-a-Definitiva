@@ -1,0 +1,33 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background: #ff9966;
+    background: -webkit-linear-gradient(to right, #ff5e62,#ff9966);
+    background: linear-gradient(to right, #ff5e62);
+}
+
+.contenedor {
+    background-color: white;
+    height: calc(100vh - 20px);
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 30px 0 30px;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: 'IBM Flex Serif', serif;
+}
+
+h2 {
+    color: white;
+}
+
+.contenedor-flex{
+
+}
+
+.elemento-flex {
+    padding: 10px;
+    background: #E53935;
+}
